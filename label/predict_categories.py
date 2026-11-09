@@ -6,7 +6,7 @@ Required files:
   2. Trained model: news_category_logreg_pipeline.pkl
   3. Input Excel/CSV file containing at least: title, content, date
      Optional: author
-     Default input: S:\Project_task\label\news_final_clean.csv
+     Default input: label/news_final_clean.csv
 
 The script creates a new output file with a predicted "category" column.
 It does NOT train a new model.
