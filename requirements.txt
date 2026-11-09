@@ -1,0 +1,15 @@
+beautifulsoup4
+dateparser
+feedparser
+httpx
+joblib
+matplotlib
+numpy
+openpyxl
+pandas
+playwright
+psycopg2-binary
+pyarrow
+scikit-learn
+seaborn
+SQLAlchemy
